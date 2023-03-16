@@ -1,0 +1,7 @@
+{
+  "name": "sidetabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
